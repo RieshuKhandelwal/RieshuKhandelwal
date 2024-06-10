@@ -11,8 +11,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/rieshukhandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rieshukhandelwal" height="30" width="40" /></a>
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p display="inline" align="left">
 <a href="https://www.naukri.com/code360/profile/ceeffd96-a967-41c4-86e2-e73aecc415b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/RieshuKhandelwal/RieshuKhandelwal/main/OIP.jpg"alt="rieshukhandelwal" height="30" width="40" /></a>
 </p>
 
