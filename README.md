@@ -5,7 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RieshuKhandelwal](https://github.com/RieshuKhandelwal)
 
-- 📫 How to reach me **rieshukhandelwal@gmail.com** | www.linkedin.com/in/rishu-khandelwal-1034a2169
+- 📫 How to reach me **rieshukhandelwal@gmail.com** | www.linkedin.com/in/rieshuKhandelwal
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
