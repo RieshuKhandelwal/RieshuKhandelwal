@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rieshu Khandelwal</h1>
 <h3 align="center">A passionate fullstack learner</h3>
 
-- 🔭 I’m currently working on [project](in progress, will be released soon)
+- 🔭 I’m currently working on [project](in progress, will be released soon), Latest front end project - <a href="https://rieshukhandelwal.github.io/Obys-agnecy/">https://rieshukhandelwal.github.io/Obys-agnecy/</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RieshuKhandelwal](https://github.com/RieshuKhandelwal)
 
